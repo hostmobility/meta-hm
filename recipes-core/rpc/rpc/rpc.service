@@ -1,0 +1,10 @@
+[Unit]
+Description=HM rpc server
+
+[Service]
+ExecStart=/opt/hm/rpcserver
+
+[Install]
+WantedBy=multi-user.target
+Alias=rpc.service
+

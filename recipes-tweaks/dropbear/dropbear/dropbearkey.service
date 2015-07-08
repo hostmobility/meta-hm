@@ -1,0 +1,11 @@
+[Unit]
+Description=SSH Key Generation
+ConditionFileNotEmpty=|!/etc/dropbear/dropbear_rsa_host_key
+Before=dropbear@.service
+
+[Service]
+ExecStartPre=/bin/rm -f /etc/dropbear/dropbear_rsa_host_key
+ExecStart=/usr/sbin/dropbearkey -t rsa -f /etc/dropbear/dropbear_rsa_host_key
+
+[Install]
+WantedBy=multi-user.target

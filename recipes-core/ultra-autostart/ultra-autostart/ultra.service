@@ -1,0 +1,15 @@
+[Unit]
+Description=Run ultra scripts
+Requires= autostart.service
+After = autostart.service
+
+[Service]
+Environment=PATH_MNT_BASE=/mnt/ultra
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/bin/taskset 2 /sbin/ultra.sh start
+TimeoutStopSec=30
+SendSIGKILL=yes
+
+[Install]
+WantedBy=multi-user.target

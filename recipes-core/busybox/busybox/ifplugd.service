@@ -1,0 +1,10 @@
+[Unit]
+Description=Run ifplugd for automatic eth0 configuration
+
+[Service]
+ExecStart = /usr/bin/ifplugd -fInM -i eth0
+Restart = always
+
+
+[Install]
+WantedBy=multi-user.target

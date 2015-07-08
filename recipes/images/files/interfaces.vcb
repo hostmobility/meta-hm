@@ -1,0 +1,35 @@
+# /etc/network/interfaces -- configuration file for ifup(8), ifdown(8)
+ 
+# The loopback interface
+auto lo
+iface lo inet loopback
+
+# Ethernet interface
+#-------------------
+auto eth0
+#iface eth0 inet dhcp
+iface eth0 inet static
+        address 192.168.10.10
+        netmask 255.255.255.0
+        network 192.168.10.0
+        gateway 192.168.10.1
+
+# Optical ethernet interfaces
+#----------------------------
+auto eth1
+#iface eth1 inet dhcp
+iface eth1 inet static
+        address 192.168.11.10
+        netmask 255.255.255.0
+        network 192.168.11.0
+
+auto eth2
+#iface eth2 inet dhcp
+iface eth2 inet static
+        address 192.168.12.10
+        netmask 255.255.255.0
+        network 192.168.12.0
+
+# Ethernet/RNDIS gadget (ethernet on USB)
+# RNDIS is handled by udev rule
+

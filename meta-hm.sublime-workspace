@@ -1,0 +1,1770 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uin",
+				"uint8_t"
+			],
+			[
+				"uint",
+				"uint8_t"
+			],
+			[
+				"rest",
+				"mx4_pic_restart_cause"
+			],
+			[
+				"DUM",
+				"dummy_output"
+			],
+			[
+				"last",
+				"last_update"
+			],
+			[
+				"inpute",
+				"input_event_state"
+			],
+			[
+				"US",
+				"USBC_ID"
+			],
+			[
+				"USB",
+				"USB_DEVICE_HOST_CHECK_TIMEOUT"
+			],
+			[
+				"get",
+				"get_elapsed_time_ms"
+			],
+			[
+				"__",
+				"__delay_ms"
+			],
+			[
+				"MODEM",
+				"MODEM_RINGO"
+			],
+			[
+				"di",
+				"DIG_IN_1"
+			],
+			[
+				"MOE",
+				"MODEM_RINGO"
+			],
+			[
+				"START_SW",
+				"START_SWITCH_INDEX"
+			],
+			[
+				"BIT_RIS",
+				"BIT_RISING_EDGE_BY_NAME"
+			],
+			[
+				"BIT_FAL",
+				"BIT_FALLING_EDGE_BY_NAME"
+			],
+			[
+				"BIT_FA",
+				"BIT_FALLING_EDGE_BY_NAME"
+			],
+			[
+				"bit",
+				"BIT_FALLING_EDGE_BY_NAME"
+			],
+			[
+				"__R",
+				"__RISING_EDGE"
+			],
+			[
+				"new",
+				"new_port"
+			],
+			[
+				"old",
+				"old_port"
+			],
+			[
+				"STA",
+				"START_SWITCH_INDEX"
+			],
+			[
+				"el",
+				"elapsed_time"
+			],
+			[
+				"input_even",
+				"input_event_state"
+			],
+			[
+				"curr",
+				"current_state"
+			],
+			[
+				"r",
+				"rising"
+			],
+			[
+				"input_eve",
+				"input_event_state"
+			],
+			[
+				"input",
+				"input_broadcast"
+			],
+			[
+				"input_",
+				"input_broadcast"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"DIGITAL_IN",
+				"DIGITAL_IN_5"
+			],
+			[
+				"start",
+				"startup_timer"
+			],
+			[
+				"main_hand",
+				"main_handle_3_3V"
+			],
+			[
+				"pinct",
+				"pinctl_enable_pull_up"
+			],
+			[
+				"enab",
+				"pinctl_enable_pull_up"
+			],
+			[
+				"PIC",
+				"PIC_WAKE_UP_MASK"
+			],
+			[
+				"BOARD",
+				"BOARD_SYSTEM_TYPE"
+			],
+			[
+				"WAKE_UP_TRI",
+				"WAKE_UP_TRIGGER_START_SWITCH_F"
+			],
+			[
+				"polle",
+				"polled_inputs"
+			],
+			[
+				"mx4_",
+				"mx4_pic_input_broadcast"
+			],
+			[
+				"POLL",
+				"polled_inputs"
+			],
+			[
+				"pol",
+				"polled_inputs"
+			],
+			[
+				"wake",
+				"wake_up_source"
+			],
+			[
+				"wakeup",
+				"wakeup_triggers"
+			],
+			[
+				"WA",
+				"WAKE_UP_SRC_CAN"
+			],
+			[
+				"SUS",
+				"SUSPEND_DEEP_SLEEP_TIMEOUT"
+			],
+			[
+				"pm_to",
+				"pm_handle_blink_and_can_toggle"
+			],
+			[
+				"pm_Han",
+				"pm_handle_blink_and_can_toggle"
+			],
+			[
+				"SLEEP_FS",
+				"SLEEP_FMS_ENTER_SLEEP"
+			],
+			[
+				"prev",
+				"prev_portb"
+			],
+			[
+				"DIGI",
+				"DIGITAL_WAKE_ON_CAN"
+			],
+			[
+				"pre",
+				"prev_portb"
+			],
+			[
+				"echo",
+				"echo_ts"
+			],
+			[
+				"POWER_",
+				"POWER_LED_YELLOW"
+			],
+			[
+				"MODEM_LED",
+				"MODEM_LED_YELLOW"
+			],
+			[
+				"set",
+				"SET_VALUE"
+			],
+			[
+				"DIG",
+				"DIG_IN_1"
+			],
+			[
+				"ty",
+				"type_code"
+			],
+			[
+				"handle_",
+				"handle_gpio_index"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"mx4",
+				"mx4_pic_restart_cause"
+			],
+			[
+				"prot_type_digit",
+				"PROT_TYPE_DIGITAL_OUT_4"
+			],
+			[
+				"FUNC",
+				"FUNC_LED"
+			],
+			[
+				"LIN",
+				"LIN_MASTER"
+			],
+			[
+				"GPS_",
+				"GPS_LED_RED"
+			],
+			[
+				"DIGTIA",
+				"DIGITAL_OUT_1"
+			],
+			[
+				"DIGITAL_OUT",
+				"DIGITAL_OUT_4"
+			],
+			[
+				"DIGITA",
+				"DIGITAL_OUT_5"
+			],
+			[
+				"POWER",
+				"POWER_LED"
+			],
+			[
+				"VR",
+				"V_REF_ON"
+			],
+			[
+				"CP",
+				"CPU_IRQ"
+			],
+			[
+				"WAKE_ON",
+				"WAKE_ON_CAN_1"
+			],
+			[
+				"WAKE",
+				"WAKE-ON-CAN"
+			],
+			[
+				"DIGIT",
+				"DIGITAL_OUT_5"
+			],
+			[
+				"WAKE_",
+				"WAKE_ON_CAN_4"
+			],
+			[
+				"J170",
+				"J1708-RS232-RX"
+			],
+			[
+				"timeout",
+				"timeout_cnt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "conf/machine/colibri-vf.conf",
+			"settings":
+			{
+				"buffer_size": 1765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conf/machine/colibri-t20.conf",
+			"settings":
+			{
+				"buffer_size": 1662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "recipes/images/console-vcc-base-image.bb",
+			"settings":
+			{
+				"buffer_size": 2423,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "while true; do echo `cat /opt/hm/pic_attributes/start_signal` > /dev/kmsg; usleep 500000; done",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Unix",
+				"name": "while true; do echo `cat /opt/hm/pic_attributes/st"
+			}
+		},
+		{
+			"file": "/home/mirza/apps/oe-core/stuff/meta-openembedded/meta-networking/recipes-support/strongswan/strongswan_5.2.0.bb",
+			"settings":
+			{
+				"buffer_size": 1899,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "recipes-devtools/ruby/ruby_2.0.0-p247.bb",
+			"settings":
+			{
+				"buffer_size": 738,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "recipes-devtools/ruby/ruby/readline.patch",
+			"settings":
+			{
+				"buffer_size": 1358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mirza/apps/oe-core/stuff/meta-openembedded/meta-webserver/recipes-webadmin/webmin/files/disable-version-check.patch",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "recipes-devtools/ruby/ruby.inc",
+			"settings":
+			{
+				"buffer_size": 1792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "recipes-core/busybox/busybox_%.bbappend",
+			"settings":
+			{
+				"buffer_size": 6029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nDEBUG: Executing python function sysroot_cleansstate\nDEBUG: Python function sysroot_cleansstate finished\nDEBUG: SITE files ['endian-little', 'bit-32', 'arm-common', 'arm-32', 'common-linux', 'common-glibc', 'arm-linux', 'arm-linux-gnueabi', 'common']\nDEBUG: Executing shell function autotools_preconfigure\nDEBUG: Shell function autotools_preconfigure finished\nDEBUG: Executing python function autotools_copy_aclocals\nDEBUG: Python function autotools_copy_aclocals finished\nDEBUG: Executing shell function do_configure\nsed: can't read configure.ac: No such file or directory\nWARNING: /home/mirza/apps/oe-core/build/out-glibc/work/armv7at2hf-vfp-angstrom-linux-gnueabi/libsocketcan/0.0.10-r0/temp/run.do_configure.7222:1 exit 2 from\n  sed -i -e s:tests/GNUmakefile::g -e s:trunk:0.0.10: configure.ac\nERROR: Function failed: do_configure (log file is located at /home/mirza/apps/oe-core/build/out-glibc/work/armv7at2hf-vfp-angstrom-linux-gnueabi/libsocketcan/0.0.10-r0/temp/log.do_configure.7222)\n",
+			"file": "/home/mirza/apps/oe-core/build/out-glibc/work/armv7at2hf-vfp-angstrom-linux-gnueabi/libsocketcan/0.0.10-r0/temp/log.do_configure.7222",
+			"file_size": 994,
+			"file_write_time": 130807348802902128,
+			"settings":
+			{
+				"buffer_size": 995,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/mx4-pic.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"hex",
+				"Hex Viewer: Find By Address"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mirza/apps/meta-hm"
+	],
+	"file_history":
+	[
+		"/home/mirza/apps/meta-hm/recipes-support/strongswan/strongswan_5.2.2.bb",
+		"/home/mirza/apps/oe-core/stuff/meta-openembedded/meta-networking/recipes-support/strongswan/strongswan_5.2.0.bb",
+		"/home/mirza/apps/oe-core/stuff/meta-openembedded/meta-webserver/recipes-webadmin/webmin/webmin_1.700.bb",
+		"/home/mirza/apps/meta-hm/recipes-extended/socketcan/libsocketcan_0.0.10.bb",
+		"/home/mirza/apps/meta-hm/recipes-devtools/msgpack/msgpack.inc",
+		"/home/mirza/sleep_test.cap",
+		"/home/mirza/apps/oe-core/build/out-glibc/work/armv7at2hf-vfp-angstrom-linux-gnueabi/busybox/1.22.1-r32/temp/log.do_install.28859",
+		"/home/mirza/apps/oe-core/stuff/meta-toradex/recipes-core/busybox/busybox_%.bbappend",
+		"/home/mirza/apps/oe-core/stuff/meta-linaro/meta-linaro-integration/recipes-core/busybox/busybox_%.bbappend",
+		"/home/mirza/apps/oe-core/stuff/meta-linaro/meta-linaro-integration/recipes-core/busybox/files/linaro.cfg",
+		"/home/mirza/apps/oe-core/stuff/meta-toradex/conf/machine/colibri-t20.conf",
+		"/home/mirza/apps/oe-core/stuff/meta-toradex/conf/machine/colibri-vf.conf",
+		"/home/mirza/apps/meta-hm/buildconf/bblayers.conf",
+		"/home/mirza/apps/meta-hm/buildconf/export",
+		"/home/mirza/apps/meta-hm/recipes-core/autostart/autostart.bb",
+		"/home/mirza/apps/oe-core/stuff/meta-toradex/recipes-core/usb-rndis/usb-rndis-systemd.bb",
+		"/home/mirza/apps/oe-core/stuff/meta-toradex/recipes-core/usb-rndis/files/usb-rndis.service",
+		"/home/mirza/apps/meta-hm/recipes-core/usb-rndis/usb-rndis-systemd.bbappend",
+		"/home/mirza/apps/oe-core/stuff/meta-toradex/recipes-core/usb-rndis/files/start-rndis.sh",
+		"/home/mirza/apps/meta-hm/recipes-core/zcomax-wifi/zcomax-wifi.bb",
+		"/home/mirza/apps/meta-hm/recipes-core/automount-udev/automount-udev.bb",
+		"/home/mirza/apps/meta-hm/recipes-core/mount-config/mount-config.bb",
+		"/home/mirza/apps/meta-hm/recipes-core/inotify-tools/inotify-tools_3.13.bb",
+		"/home/mirza/apps/meta-hm/recipes-core/ultra-autostart/ultra-autostart.bb",
+		"/home/mirza/apps/meta-hm/recipes-core/ramdisk-autostart/ramdisk-autostart.bb",
+		"/home/mirza/apps/meta-hm/recipes-core/rpc/rpc.bb",
+		"/home/mirza/apps/meta-hm/recipes/images/console-vcc-base-image.bb",
+		"/home/mirza/apps/meta-hm/recipes/images/console-gtt-base-image.bb",
+		"/home/mirza/apps/meta-hm/recipes/images/console-vf-base-image.bb",
+		"/home/mirza/apps/meta-hm/recipes/images/console-mx4-base-image.bb",
+		"/home/mirza/apps/meta-hm/recipes-kernel/linux-hm-vf_4.0.bb",
+		"/home/mirza/apps/meta-hm/conf/machine/colibri-vf.conf",
+		"/home/mirza/apps/meta-hm/recipes-core/busybox/busybox_%.bbappend",
+		"/home/mirza/apps/meta-hm/recipes-core/hmfeed/hmfeed.bb",
+		"/home/mirza/apps/meta-hm/recipes-core/ifplugd-eth1/ifplugd-eth1.bb",
+		"/home/mirza/apps/meta-hm/recipes-support/icu/icu_%.bbappend",
+		"/home/mirza/apps/oe-core/stuff/meta-angstrom/recipes-images/angstrom/systemd-image.bb",
+		"/home/mirza/apps/oe-core/stuff/meta-angstrom/recipes-images/angstrom/console-base-image.bb",
+		"/home/mirza/apps/meta-hm/recipes-core/busybox/busybox/ifplugd.action",
+		"/home/mirza/apps/meta-hm/recipes-core/busybox/busybox/ifplugd.service",
+		"/home/mirza/apps/meta-hm/recipes-core/ifplugd-eth1/ifplugd-eth1/ifplugd1.service",
+		"/home/mirza/apps/oe-core/stuff/meta-hm/recipes-core/busybox/busybox/ifplugd.service",
+		"/home/mirza/apps/oe-core/stuff/meta-angstrom/recipes-images/angstrom/console-image.bb",
+		"/home/mirza/apps/oe-core/build/conf/local.conf",
+		"/home/mirza/apps/oe-core/stuff/meta-toradex/recipes-kernel/linux/linux-toradex.inc",
+		"/home/mirza/apps/meta-hm/recipes-tweaks/dropbear/dropbear_%.bbappend",
+		"/home/mirza/apps/meta-hm/recipes-core/cronie/cronie_%.bbappend",
+		"/home/mirza/apps/meta-hm/recipes-connectivity/wpa-supplicant/wpa-supplicant_%.bbappend",
+		"/home/mirza/apps/meta-hm/recipes-extended/rsyslog/rsyslog_%.bbappend",
+		"/home/mirza/apps/meta-hm/recipes-tweaks/gstreamer/gst-plugins-bad_0.10.23.bbappend",
+		"/home/mirza/apps/meta-hm/recipes-core/init-ifupdown/init-ifupdown_1.0.bbappend",
+		"/home/mirza/apps/meta-hm/recipes/base-files/base-files_3.0.14.bbappend",
+		"/home/mirza/apps/meta-hm/recipes-core/ntp/ntp_4.2.6p5.bbappend",
+		"/home/mirza/apps/meta-hm/recipes-core/ntp/ntp/ntpdate.default",
+		"/home/mirza/git/mx4/pic/src/common/main.c",
+		"/home/mirza/apps/oe-core/build/conf/bblayers.conf",
+		"/home/mirza/git/mx4/pic/src/common/mario_theme.h",
+		"/home/mirza/git/mx4/pic/src/common/mario_theme.c",
+		"/home/mirza/apps/meta-hm/meta-hm/recipes-core/usb-rndis/usb-rndis-systemd.bbappend",
+		"/home/mirza/git/mx4/pic/.gitignore",
+		"/home/mirza/git/mx4/pic/include/common/global_variables.h",
+		"/home/mirza/git/mx4/pic/src/common/modem.c",
+		"/home/mirza/git/mx4/pic/include/gtt/pin_defs.h",
+		"/home/mirza/git/mx4/pic/src/common/data_manager_mx4.c",
+		"/home/mirza/git/mx4/pic/src/common/user.c",
+		"/home/mirza/git/mx4/pic/src/common/system.h",
+		"/home/mirza/git/mx4/pic/src/common/pm.c",
+		"/home/mirza/git/mx4/pic/src/common/pm.h",
+		"/home/mirza/git/mx4/pic/src/vcc-t20/pinctl.c",
+		"/home/mirza/git/mx4/docs/sleep_test_t20.md",
+		"/home/mirza/git/mx4/pic/include/vcc/pin_defs.h",
+		"/home/mirza/git/mx4/pic/src/v61/pinctl.c",
+		"/home/mirza/git/mx4/pic/include/v61/pin_defs.h",
+		"/home/mirza/git/mx4/pic/link/vcc/p24FJ128GA310.gld",
+		"/home/mirza/git/mx4/pic/link/bl/vcc/p24FJ128GA310.gld",
+		"/home/mirza/git/mx4/pic/link/bl/gtt/p24FJ128GA310.gld",
+		"/home/mirza/git/mx4/pic/src/bl/v61/bl_pinctl.c",
+		"/home/mirza/git/mx4/pic/src/bl/vcc-t20/bl_pinctl.c",
+		"/home/mirza/git/mx4/pic/src/bl/bl_pinctl.c",
+		"/home/mirza/git/mx4/pic/link/gtt/p24FJ128GA310.gld",
+		"/home/mirza/git/mx4/pic/src/common/analog_init.c",
+		"/home/mirza/git/mx4/pic/include/vcc-t20/pin_defs.h",
+		"/home/mirza/git/mx4/pic/src/common/system.c",
+		"/home/mirza/git/mx4/pic/src/common/analog.h",
+		"/home/mirza/git/mx4/pic/include/vcc-t20/analog_init.h",
+		"/home/mirza/git/mx4/pic/src/common/config_block.h",
+		"/home/mirza/git/mx4/pic/src/common/config_block.c",
+		"/home/mirza/git/mx4/scripts/mx4/go_to_sleep.sh",
+		"/home/mirza/git/mx4-wiki/README.md",
+		"/home/mirza/tps_rtc_fix_test.cap",
+		"/home/mirza/tps_time_drift.cap",
+		"/home/mirza/git/mx4/pic/src/bl/main.c",
+		"/home/mirza/git/mx4/pic/src/common/analog.c",
+		"/home/mirza/git/mx4/pic/include/common/analog_init.h",
+		"/home/mirza/git/mx4/pic/include/v61/analog_init.h",
+		"/home/mirza/git/mx4/pic/src/vcc-t20/analog_init.c",
+		"/home/mirza/git/mx4/pic/src/common/digital.h",
+		"/home/mirza/git/mx4/drivers/mx4_io_drivers/spi/mx4_spi_protocol_defs.h",
+		"/home/mirza/git/mx4/pic/src/common/digital.c",
+		"/home/mirza/git/mx4/pic/src/common/spi_protocol.c",
+		"/home/mirza/git/mx4/pic/src/common/time_util.h",
+		"/home/mirza/git/mx4/pic/src/common/time_util.c",
+		"/home/mirza/git/mx4/pic/link/bl/mx4/p24FJ64GA306.gld",
+		"/home/mirza/git/mx4/pic/src/common/led.c",
+		"/home/mirza/git/mx4/pic/src/common/lin.c",
+		"/home/mirza/git/mx4/pic/src/common/test.c",
+		"/home/mirza/git/mx4/pic/src/common/modem_uart.c",
+		"/home/mirza/git/mx4/apps/read-inputs/Makefile",
+		"/home/mirza/git/mx4/apps/read-inputs/read_inputs.c",
+		"/home/mirza/git/mx4/drivers/mx4_io_drivers/spi/event_listening/test_event.c",
+		"/home/mirza/git/mx4/drivers/mx4_io_drivers/spi/event_listening/Makefile",
+		"/home/mirza/git/mx4/apps/read-inputs/read_inputs.",
+		"/home/mirza/git/mx4/drivers/mx4_io_drivers/spi/mx4-core.h",
+		"/home/mirza/git/mx4/drivers/mx4_io_drivers/spi/mx4-core.c",
+		"/home/mirza/git/mx4/drivers/mx4_io_drivers/spi/mx4-polled.c",
+		"/home/mirza/git/mx4/drivers/mx4_io_drivers/spi/mx4-attributes.c",
+		"/home/mirza/svn/devkits/MX-3 Utvecklarkit/Examples/HelloThread/com/hostmobility/hellothread/HelloThread.java",
+		"/home/mirza/svn/devkits/MX-3 Utvecklarkit/MxApi/src/com/hostmobility/mx/HandlerFactory.java",
+		"/home/mirza/virtulbox/fw_2.4.diff",
+		"/home/mirza/virtulbox/fw_2.5.diff",
+		"/home/mirza/git/mx4/pic/src/v61/analog_init.c",
+		"/home/mirza/git/mx4/pic/include/common/pin_mux_defs.h",
+		"/home/mirza/git/mx4/pic/include/vcc/clocksource.h",
+		"/home/mirza/git/mx4/pic/include/v61/clocksource.h",
+		"/home/mirza/project/vocom/boot_time.md",
+		"/home/mirza/git/mx4/t20/oe-core/build/conf/bblayers.conf",
+		"/home/mirza/Downloads/boot_time.md",
+		"/home/mirza/tmp/tirtc_offset.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.c",
+			"*.h",
+			"*.c",
+			"*.C",
+			"*.h",
+			"*.c",
+			"*.h",
+			"*.c",
+			"",
+			"*.",
+			"*.c",
+			"*.h",
+			"*.c",
+			"",
+			"*.c",
+			"*c",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"microseconds",
+			"}",
+			"song",
+			"__MARIO_NOTES_H__",
+			"ON_4V",
+			"hard_reset_flag",
+			"state",
+			"timeout_cnt",
+			"ANSAbits.ANSA6",
+			"USB_OTG_PWR",
+			"USBC_ID",
+			"USB_OTG_PWR",
+			"usb_activated",
+			"MODEM_SSYNC_INIT_TOGGLE",
+			"sync_toggled",
+			"sync_init_toggle_cnt",
+			"sync_toggled",
+			"ssync_led_on_flag",
+			"last_sync",
+			"/sys/bus/spi/devices/spi3.0/",
+			"_mV",
+			"input_voltage_threshold_high_mV",
+			"_mV",
+			"Digital Inputs",
+			"config_init_t",
+			"scratch_pad",
+			"ID_AD_CHANNEL_BATTERY_VOLTAGE",
+			"scratch_pad",
+			"mx4_pic_restart_cause",
+			"config_init.initialized",
+			"BAT_ON_PIC",
+			"ON_4V",
+			"last_sent_time",
+			"event",
+			"SYS_FMS_BOOTING",
+			"PROT_TYPE_CTRL_SYSTEM_STATE",
+			"polled",
+			"* ",
+			"(1",
+			"         (1",
+			"(1",
+			"CN76IE",
+			"USBC_DET",
+			"DATA_READY_PIC",
+			"* ",
+			"Linux",
+			"LED5_YELLOW",
+			"4_ON",
+			"5V_ON",
+			"modem_ctrl_signal",
+			"turn_on_timeout_cnt",
+			"pwrmon_high_cnt",
+			"set_pic_wake_mask",
+			"PIC_WAKE_UP_MASK",
+			"WAKE_UP_TRIGGER_CAN",
+			"DIGITAL_IN",
+			"digital_idx",
+			"last_updated_time",
+			"0",
+			"DIGITAL_OUT_2",
+			";\n",
+			"read-inputs",
+			"gps-parser",
+			"DATA_READY_PIC",
+			"mx4_polled_work_callback",
+			"input_event_state",
+			"input_broadcast.",
+			"input_broadcast",
+			"notify_periodic_polled_value_changes",
+			"mx4_pic_input_broadcast",
+			"input_event",
+			"bl_clear_dirty_application",
+			"bl_write_dirty_application",
+			"dirty_app_flag",
+			"bl_clear_dirty_application",
+			"SET_VALUE(POWER_LED, !POWER_LED);",
+			"T4CONbits.TON",
+			"T4CONbits",
+			"T2CONbits",
+			"T5",
+			"bl_spi_init_and_ack",
+			"COMMAND_WRITE_PM",
+			"SSP-RXD",
+			"setOutput",
+			"digital_in",
+			"gpio_update_outputs",
+			"CONFIG_ANALOG_SUPER_CAP",
+			"19",
+			"_RG8",
+			"TRISG",
+			"MODEM_CURRENT_IND",
+			"modem",
+			"modem_ctrl_signal",
+			"MODEM_SSYNC",
+			"unexport_gpio",
+			"bl_reset_main_cpu",
+			"pSpiSpeed",
+			"OpenConnection",
+			"DIGITAL_OUT_5",
+			"pre_shutdown",
+			"rtc",
+			"();\n",
+			"CAP_ON_PIC",
+			"pm_cut_4V",
+			"pm.startup_timer.start = 1;",
+			"up",
+			"start_flag",
+			"PWR_FMS_INIT",
+			"dev_sw_watchdog.start",
+			"dev_sw_watchdog",
+			"polled",
+			"();\n",
+			"on_3_3V",
+			"ON_3_3V",
+			"on_3_3V_changed",
+			"b15",
+			"LIN2_TX_CMOS_PIN",
+			"pinctl_suspend",
+			"pinctl_disable_pull_up",
+			"LIN2",
+			"Enable",
+			"spdif",
+			"set_pic_wake_mask",
+			"Sleep",
+			"CURRENT_WAKE",
+			"Set input as interrupt",
+			"MODEM_RINGO",
+			"MODEM_RINGO_PORT_INDEX"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "conf/machine/colibri-vf.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								634,
+								634
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "conf/machine/colibri-t20.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "recipes/images/console-vcc-base-image.bb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1866,
+								1866
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"auto_name": "while true; do echo `cat /opt/hm/pic_attributes/st",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/mirza/apps/oe-core/stuff/meta-openembedded/meta-networking/recipes-support/strongswan/strongswan_5.2.0.bb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								662,
+								662
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "recipes-devtools/ruby/ruby_2.0.0-p247.bb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "recipes-devtools/ruby/ruby/readline.patch",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								946,
+								946
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Diff/Diff.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/mirza/apps/oe-core/stuff/meta-openembedded/meta-webserver/recipes-webadmin/webmin/files/disable-version-check.patch",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Diff/Diff.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "recipes-devtools/ruby/ruby.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								852,
+								852
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "recipes-core/busybox/busybox_%.bbappend",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/mirza/apps/oe-core/build/out-glibc/work/armv7at2hf-vfp-angstrom-linux-gnueabi/libsocketcan/0.0.10-r0/temp/log.do_configure.7222",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								995,
+								995
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 137.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "meta-hm.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"console-vcc",
+				"recipes/images/console-vcc-base-image.bb"
+			],
+			[
+				"strong",
+				"recipes-support/strongswan/strongswan_5.2.2.bb"
+			],
+			[
+				"ruby",
+				"recipes-devtools/ruby/ruby_2.0.0-p247.bb"
+			],
+			[
+				"msg",
+				"recipes-devtools/msgpack/msgpack.inc"
+			],
+			[
+				"libos",
+				"recipes-extended/socketcan/libsocketcan_0.0.10.bb"
+			],
+			[
+				"bus",
+				"recipes-core/busybox/busybox_%.bbappend"
+			],
+			[
+				"coli",
+				"conf/machine/colibri-vf.conf"
+			],
+			[
+				"usb",
+				"recipes-core/usb-rndis/usb-rndis-systemd.bbappend"
+			],
+			[
+				"autostart",
+				"recipes-core/autostart/autostart.bb"
+			],
+			[
+				"zmom",
+				"recipes-core/zcomax-wifi/zcomax-wifi.bb"
+			],
+			[
+				"automo",
+				"recipes-core/automount-udev/automount-udev.bb"
+			],
+			[
+				"mount-",
+				"recipes-core/mount-config/mount-config.bb"
+			],
+			[
+				"inot",
+				"recipes-core/inotify-tools/inotify-tools_3.13.bb"
+			],
+			[
+				"ultra-",
+				"recipes-core/ultra-autostart/ultra-autostart.bb"
+			],
+			[
+				"ramdi",
+				"recipes-core/ramdisk-autostart/ramdisk-autostart.bb"
+			],
+			[
+				"rpc.bb",
+				"recipes-core/rpc/rpc.bb"
+			],
+			[
+				"console-mx",
+				"recipes/images/console-mx4-base-image.bb"
+			],
+			[
+				"console-vf",
+				"recipes/images/console-vf-base-image.bb"
+			],
+			[
+				"console-gt",
+				"recipes/images/console-gtt-base-image.bb"
+			],
+			[
+				"hmfee",
+				"recipes-core/hmfeed/hmfeed.bb"
+			],
+			[
+				"hmd",
+				"recipes-core/hmfeed/hmfeed.bb"
+			],
+			[
+				"ifplugd-et",
+				"recipes-core/ifplugd-eth1/ifplugd-eth1.bb"
+			],
+			[
+				"co",
+				"conf/machine/colibri-vf.conf"
+			],
+			[
+				"consol",
+				"recipes/images/console-vcc-base-image.bb"
+			],
+			[
+				"ic",
+				"recipes-support/icu/icu_%.bbappend"
+			],
+			[
+				"drop",
+				"recipes-tweaks/dropbear/dropbear_%.bbappend"
+			],
+			[
+				"cron",
+				"recipes-core/cronie/cronie_%.bbappend"
+			],
+			[
+				"wpa",
+				"recipes-connectivity/wpa-supplicant/wpa-supplicant_%.bbappend"
+			],
+			[
+				"rsys",
+				"recipes-extended/rsyslog/rsyslog_%.bbappend"
+			],
+			[
+				"ntp",
+				"recipes-core/ntp/ntp_4.2.6p5.bbappend"
+			],
+			[
+				"base",
+				"recipes/base-files/base-files_3.0.14.bbappend"
+			],
+			[
+				"ini",
+				"recipes-core/init-ifupdown/init-ifupdown_1.0.bbappend"
+			],
+			[
+				"gst",
+				"recipes-tweaks/gstreamer/gst-plugins-bad_0.10.23.bbappend"
+			],
+			[
+				"usb-r",
+				"recipes-core/usb-rndis/usb-rndis-systemd.bbappend"
+			],
+			[
+				"main",
+				"pic/src/common/main.c"
+			],
+			[
+				"data_mana",
+				"pic/src/common/data_manager_mx4.c"
+			],
+			[
+				"global",
+				"pic/include/common/global_variables.h"
+			],
+			[
+				"user.c",
+				"pic/src/common/user.c"
+			],
+			[
+				"modem",
+				"pic/src/common/modem.c"
+			],
+			[
+				"main.c",
+				"pic/src/common/main.c"
+			],
+			[
+				"pmc.",
+				"pic/src/common/pm.c"
+			],
+			[
+				"glob",
+				"pic/include/common/global_variables.h"
+			],
+			[
+				"pinctl",
+				"pic/src/vcc-t20/pinctl.c"
+			],
+			[
+				"pm",
+				"pic/src/common/pm.c"
+			],
+			[
+				"mainc",
+				"pic/src/common/main.c"
+			],
+			[
+				"ana",
+				"pic/src/common/analog_init.c"
+			],
+			[
+				"pindefs",
+				"pic/include/vcc/pin_defs.h"
+			],
+			[
+				"data",
+				"pic/src/common/data_manager_mx4.c"
+			],
+			[
+				"pm.h",
+				"pic/src/common/pm.h"
+			],
+			[
+				"pindef",
+				"pic/include/v61/pin_defs.h"
+			],
+			[
+				"momde",
+				"pic/src/common/modem.c"
+			],
+			[
+				"config_",
+				"pic/src/common/config_block.h"
+			],
+			[
+				"glo",
+				"pic/include/common/global_variables.h"
+			],
+			[
+				"systemc",
+				"pic/src/common/system.c"
+			],
+			[
+				"analog.h",
+				"pic/src/common/analog.h"
+			],
+			[
+				"config",
+				"pic/src/common/config_block.h"
+			],
+			[
+				"dataa",
+				"pic/src/common/data_manager_mx4.c"
+			],
+			[
+				"pmc",
+				"pic/src/common/pm.c"
+			],
+			[
+				"anal",
+				"pic/src/common/analog.c"
+			],
+			[
+				"system",
+				"pic/src/common/system.h"
+			],
+			[
+				"pm.c",
+				"pic/src/common/pm.c"
+			],
+			[
+				"digital",
+				"pic/src/common/digital.h"
+			],
+			[
+				"digita",
+				"pic/src/common/digital.c"
+			],
+			[
+				"time_",
+				"pic/src/common/time_util.h"
+			],
+			[
+				"spi_",
+				"pic/src/common/spi_protocol.c"
+			],
+			[
+				"mode",
+				"pic/src/common/modem.c"
+			],
+			[
+				"pin_defs.h",
+				"pic/include/gtt/pin_defs.h"
+			],
+			[
+				"pinct",
+				"pic/src/vcc-t20/pinctl.c"
+			],
+			[
+				"pind",
+				"pic/include/vcc-t20/pin_defs.h"
+			],
+			[
+				"pin",
+				"pic/src/v61/pinctl.c"
+			],
+			[
+				"spi",
+				"pic/src/common/spi_protocol.c"
+			],
+			[
+				"globa",
+				"pic/include/common/global_variables.h"
+			],
+			[
+				"pincl",
+				"pic/src/bl/v61/bl_pinctl.c"
+			],
+			[
+				"config_block",
+				"pic/src/common/config_block.c"
+			],
+			[
+				"analoc",
+				"pic/src/v61/analog_init.c"
+			],
+			[
+				"clock",
+				"pic/include/vcc/clocksource.h"
+			],
+			[
+				"analog_init.c",
+				"pic/src/vcc-t20/analog_init.c"
+			],
+			[
+				"analo",
+				"pic/include/vcc-t20/analog_init.h"
+			],
+			[
+				"anali",
+				"pic/src/vcc-t20/analog_init.c"
+			],
+			[
+				"configuration_b",
+				"pic/src/vcc/configuration_bits.c"
+			],
+			[
+				"user",
+				"pic/src/common/user.c"
+			],
+			[
+				"system.h",
+				"pic/src/common/system.h"
+			],
+			[
+				"j17",
+				"pic/src/common/j1708.c"
+			],
+			[
+				"super",
+				"pic/src/vcc-t20/super_cap.c"
+			],
+			[
+				"globv",
+				"pic/include/common/global_variables.h"
+			],
+			[
+				"led.c",
+				"pic/src/common/led.c"
+			],
+			[
+				"rtc",
+				"pic/src/vcc/rtc.c"
+			],
+			[
+				"bl",
+				"pic/src/bl/vcc-t20/bl_pinctl.c"
+			],
+			[
+				"user.h",
+				"pic/src/common/user.h"
+			],
+			[
+				"led.",
+				"pic/src/common/led.c"
+			],
+			[
+				"globla",
+				"pic/include/common/global_variables.h"
+			],
+			[
+				"led.h",
+				"pic/src/common/led.h"
+			],
+			[
+				"led",
+				"pic/src/common/led.c"
+			],
+			[
+				"pinde",
+				"pic/include/vcc-t20/pin_defs.h"
+			],
+			[
+				"ppm",
+				"pic/src/common/pm.c"
+			],
+			[
+				"pin_def",
+				"pic/include/gtt/pin_defs.h"
+			],
+			[
+				"analog_init",
+				"pic/src/common/analog_init.c"
+			],
+			[
+				"analog",
+				"pic/src/vcc/analog_init.c"
+			],
+			[
+				"data_",
+				"pic/src/common/data_manager_mx4.c"
+			],
+			[
+				"mx4-core",
+				"spi/mx4-core.c"
+			],
+			[
+				"pin_defs",
+				"pic/include/gtt/pin_defs.h"
+			],
+			[
+				"mx4-a",
+				"spi/mx4-attributes.c"
+			],
+			[
+				"glovb",
+				"pic/include/common/global_variables.h"
+			],
+			[
+				"digital.h",
+				"pic/src/common/digital.h"
+			],
+			[
+				"mx4-gp",
+				"spi/mx4-gpio.c"
+			],
+			[
+				"digitalc",
+				"pic/src/common/digital.c"
+			],
+			[
+				"spi_pr",
+				"pic/src/common/spi_protocol.h"
+			],
+			[
+				"mx4-pol",
+				"spi/mx4-polled.c"
+			],
+			[
+				"analog_in",
+				"pic/src/vcc/analog_init.c"
+			],
+			[
+				"lin",
+				"pic/src/common/lin.c"
+			],
+			[
+				"bl_p",
+				"pic/src/bl/vcc-t20/bl_pinctl.c"
+			],
+			[
+				"mx-4",
+				"spi/mx4-attributes.c"
+			],
+			[
+				"bl_pin",
+				"pic/src/bl/bl_pinctl.c"
+			],
+			[
+				"pin_mu",
+				"pic/include/common/pin_mux_defs.h"
+			],
+			[
+				"mx4-c",
+				"spi/mx4-core.c"
+			],
+			[
+				"mx4-",
+				"spi/mx4-core.c"
+			],
+			[
+				"mx4",
+				"spi/mx4-polled.c"
+			],
+			[
+				"digit",
+				"pic/src/common/digital.h"
+			],
+			[
+				"pin_mux",
+				"pic/include/common/pin_mux_defs.h"
+			],
+			[
+				"glog",
+				"pic/project/gtt-app/build/default/production/_ext/232673814/locked_msg_fifo.o.d"
+			],
+			[
+				"pind_def",
+				"pic/include/vcc-t20/pin_defs.h"
+			],
+			[
+				"j1708",
+				"pic/src/common/j1708.c"
+			],
+			[
+				"go",
+				"include/common/global_variables.h"
+			],
+			[
+				"j1708.c",
+				"src/common/j1708.c"
+			],
+			[
+				"dii",
+				"src/common/digital.c"
+			],
+			[
+				"make_oe",
+				"t20/utils/create_oe_rootfs/make_oe_mx4_rootfs.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "mx4-pc",
+		"selected_items":
+		[
+			[
+				"mx4-pc",
+				"~/git/mx4/pic/mx4-pic.sublime-project"
+			],
+			[
+				"mx-te",
+				"~/apps/mx-tester/mx-tester.sublime-project"
+			],
+			[
+				"mx4",
+				"~/git/mx4/pic/mx4-pic.sublime-project"
+			],
+			[
+				"ultra",
+				"~/git/ultra/ultra.sublime-project"
+			],
+			[
+				"linux",
+				"~/git/mx4/t20/linux-t20.sublime-project"
+			],
+			[
+				"linx",
+				"~/git/mx4/t20/linux-vf.sublime-project"
+			],
+			[
+				"mx",
+				"~/git/mx4/mx4.sublime-project"
+			],
+			[
+				"u-boo",
+				"~/git/mx4/t20/u-boot-vf.sublime-project"
+			],
+			[
+				"linu",
+				"~/git/mx4/t20/linux-vf.sublime-project"
+			],
+			[
+				"",
+				"~/git/mx4/t20/u-boot-vf.sublime-project"
+			],
+			[
+				"lin",
+				"~/git/mx4/t20/linux-vf.sublime-project"
+			],
+			[
+				"u-",
+				"~/git/mx4/t20/u-boot-vf.sublime-project"
+			],
+			[
+				"u-boot",
+				"~/git/mx4/t20/u-boot-vf.sublime-project"
+			],
+			[
+				"mx4-",
+				"~/git/mx4/pic/mx4-pic.sublime-project"
+			],
+			[
+				"u--",
+				"~/git/mx4/t20/u-boot-vf.sublime-project"
+			],
+			[
+				"liu",
+				"~/git/mx4/t20/linux-vf.sublime-project"
+			],
+			[
+				"vcb",
+				"~/git/vcb1000hm/vcb1000.sublime-project"
+			],
+			[
+				"u-.b",
+				"~/git/mx4/t20/u-boot-vf.sublime-project"
+			],
+			[
+				"MX4",
+				"~/git/mx4/pic/mx4-pic.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

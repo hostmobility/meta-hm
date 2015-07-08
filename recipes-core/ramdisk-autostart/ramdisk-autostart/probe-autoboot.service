@@ -1,0 +1,9 @@
+[Unit]
+Description=Run autostart scripts
+
+[Service]
+Type=oneshot
+ExecStart = /usr/bin/probe-autoboot.sh
+
+[Install]
+WantedBy=multi-user.target

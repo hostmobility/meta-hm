@@ -1,0 +1,10 @@
+[Unit]
+Description=Calls mount from systemd instead of udev. This to prevent udev timeout.
+BindsTo=dev-%i.device
+Requires=local-fs.target
+After=local-fs.target
+
+[Service]
+Environment=DEVNAME=/dev/%I
+Type=oneshot
+ExecStart=/etc/udev/scripts/mount.sh add

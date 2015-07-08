@@ -1,0 +1,2 @@
+
+ACTION=="add", KERNEL=="wlan0", SUBSYSTEM=="net", RUN+="/bin/sh -c '/usr/bin/zcomax-setup.sh'"
