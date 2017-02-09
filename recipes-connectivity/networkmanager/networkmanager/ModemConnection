@@ -1,0 +1,59 @@
+[connection]
+id=MX4-Modem
+uuid=66c79ade-c1b0-4734-8b7e-18880df14f66
+type=gsm
+autoconnect=false
+ 
+[ipv4]
+method=auto
+  
+[gsm]
+# Number to dial when establishing a PPP data session
+# with the GSM-based mobile broadband network. Many
+# modems do not require PPP for connections to the 
+# mobile network and thus this property should be left
+# blank, which allows NetworkManager to select the 
+# appropriate settings automatically
+number=*99#
+
+# The username used to authenticate with the network, 
+# if required. Many providers do not require a username,
+# or accept any username. But if a username is required,
+# it is specified here.
+#username=blahblah
+
+# The password used to authenticate with the network, 
+# if required. Many providers do not require a password,
+# or accept any password. But if a password is required,
+# it is specified here.
+#password=blehbleh
+
+# The GPRS Access Point Name specifying the APN used when
+# establishing a data session with the GSM-based network. 
+# The APN often determines how the user will be billed for 
+# their network usage and whether the user has access to 
+# the Internet or just a provider-specific walled-garden, 
+# so it is important to use the correct APN for the user's 
+# mobile broadband plan. The APN may only be composed of
+#the characters a-z, 0-9, ., and - per GSM 03.60 Section 14.9.
+apn=internet.telia.se
+
+# When TRUE, only connections to the home network will be 
+# allowed. Connections to roaming networks will not be made.
+home-only=TRUE
+
+# The Network ID (GSM LAI format, ie MCC-MNC) to force
+# specific network registration. If the Network ID is
+# specified, NetworkManager will attempt to force the
+# device to register only on the specified network. This can
+# be used to ensure that the device does not roam when
+# direct roaming control of the device is not otherwise possible.
+#network-id=21601
+
+# If the SIM is locked with a PIN it must be unlocked
+# before any other operations are requested. Specify the
+# PIN here to allow operation of the device.
+#pin=1234
+
+[serial]
+baud=115200
